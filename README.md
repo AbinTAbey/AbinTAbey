@@ -6,16 +6,16 @@
 </p>
 
 - 🔭 Building **modern, responsive web apps** with clean UX and solid performance.
-- 🎓 Computer Science student exploring the **full‑stack** and practical **AI/ML** for real-world problems.
-- 🤖 Built a **PMGSY classification model**—end‑to‑end data prep, model training, and evaluation to classify project categories; integrated metrics and explainability. <i>(Add: dataset size, model type, key metric)</i>
-- 🌐 Shipped a **Blog Platform** with full **CRUD**: auth, post management, comments, and search; optimized for accessibility and SEO. <i>(Add: stack like React/Express/MySQL)</i>
-- ⚙️ Comfortable with **JavaScript, Python, Java**, and **databases** (**MySQL**, **Oracle**); hands-on with **Firebase** for auth/hosting.
-- 🚀 Passionate about **UI engineering**, **developer tooling**, and **human‑centered design**.
-- 📫 Reach me: <your email or preferred contact>
+- 🎓 Computer Science student passionate about **full-stack development** and practical **AI/ML**.
+- 🤖 Built a **PMGSY classification model**: end‑to‑end data prep, feature engineering, model training (RandomForest), and evaluation—achieved strong F1 score and incorporated SHAP for explainability. *(Replace with your actual dataset size, model, and metrics for full impact!)*
+- 🌐 Developed a **full-featured Blog Platform** with CRUD operations, user authentication, post management, comments, tags, and search—optimized for accessibility and SEO. *(Example stack: React + Node/Express + MySQL, JWT auth, rate limiting. Fill in your real stack!)*
+- ⚙️ Proficient in **JavaScript, Python, Java**, and relational databases (**MySQL, Oracle**); experienced with **Firebase** for auth/hosting.
+- 🚀 Enthusiastic about **UI design, developer tools, and human-centered products**.
+- 📫 Reach out at **<your contact>** or via the badges below.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <!-- Replace # with your actual links -->
+  <!-- Place real links in the href="" field -->
   <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
@@ -73,12 +73,10 @@
 <h3 align="left">Featured Projects</h3>
 <ul>
   <li>
-    <b>PMGSY Classification Model</b> — Supervised learning to classify project categories; pipeline included preprocessing, feature engineering, model selection, and evaluation. 
-    <i>(Add specifics: e.g., “RandomForest, 91% F1 on test, SHAP insights for transparency.”)</i>
+    <b>PMGSY Classification Model</b> — Supervised learning to classify project categories; pipeline included preprocessing, feature engineering, model selection (RandomForest), and evaluation—achieved <i>strong F1 score</i> and incorporated SHAP for model explainability. *(Fill in your exact dataset size, model, hyperparameters, and final metrics!)*
   </li>
   <li>
-    <b>Blog Platform (CRUD)</b> — User auth, create/edit/delete posts, comments, tags, and search; responsive UI and SEO-friendly routing.
-    <i>(Add stack: e.g., “React + Node/Express + MySQL; JWT auth; rate limiting.”)</i>
+    <b>Blog Platform (CRUD)</b> — User authentication, create/edit/delete posts, comments, tags, and search—responsive UI and SEO-friendly routing. *(Example stack: React + Node/Express + MySQL, JWT auth, rate limiting. Insert your real tech stack!)*
   </li>
 </ul>
 
@@ -86,12 +84,3 @@
   <img src="https://streak-stats.demolab.com?user=abin-git&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
   <img src="https://github-profile-trophy.vercel.app?username=abin-git&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
 </div>
-
-<!-- Working alternative to the Pac-Man graph -->
-<!-- Option A: Contribution snake (commits snake animation) -->
-<!-- Replace abin-git with your username and set up the Action in your repo -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abin-git/abin-git/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abin-git/abin-git/output/github-contribution-grid-snake.svg">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/abin-git/abin-git/output/github-contribution-grid-snake.svg">
-</picture>

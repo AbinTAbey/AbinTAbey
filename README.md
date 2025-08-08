@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Abin T Abey</h1>
-<h3 align="center">Frontend Developer & AI Enthusiast from India</h3>
+<h3 align="center">Frontend Developer & AI/ML Enthusiast from India</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=abin-git&label=Profile%20views&color=0e75b6&style=flat" alt="abin-git" />
 </p>
 
-- 🔭 Currently building **modern, responsive web apps** with a focus on performance and clean UX.
-- 🌱 Computer Science student exploring the **full‑stack**—from **frontend** polish to **backend** essentials.
-- 🤖 Hands-on with **AI/ML**: have built **AI projects** applying real-world datasets and model integration.
-- ⚙️ Comfortable with **JavaScript, Python, Java**, and **databases** like **MySQL** and **Oracle**.
-- 🚀 Passionate about **UI engineering**, **developer tooling**, and **human‑centered product design**.
-- 💡 Always learning: **Front-end frameworks, backend patterns, and practical AI** for the web.
+- 🔭 Building **modern, responsive web apps** with clean UX and solid performance.
+- 🎓 Computer Science student exploring the **full‑stack** and practical **AI/ML** for real-world problems.
+- 🤖 Built a **PMGSY classification model**—end‑to‑end data prep, model training, and evaluation to classify project categories; integrated metrics and explainability. <i>(Add: dataset size, model type, key metric)</i>
+- 🌐 Shipped a **Blog Platform** with full **CRUD**: auth, post management, comments, and search; optimized for accessibility and SEO. <i>(Add: stack like React/Express/MySQL)</i>
+- ⚙️ Comfortable with **JavaScript, Python, Java**, and **databases** (**MySQL**, **Oracle**); hands-on with **Firebase** for auth/hosting.
+- 🚀 Passionate about **UI engineering**, **developer tooling**, and **human‑centered design**.
 - 📫 Reach me: <your email or preferred contact>
 
 <h3 align="left">Connect with me:</h3>
@@ -24,9 +24,6 @@
   </a>
   <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo" />
   </a>
   <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo" />
@@ -75,8 +72,14 @@
 
 <h3 align="left">Featured Projects</h3>
 <ul>
-  <li><b>AI Project:</b> <i>Briefly describe your AI project</i> — model used, problem solved, and impact/results (e.g., accuracy, speedup).</li>
-  <li><b>Web App:</b> <i>Briefly describe a recent frontend project</i> — stack (HTML/CSS/JS), responsiveness, and performance highlights.</li>
+  <li>
+    <b>PMGSY Classification Model</b> — Supervised learning to classify project categories; pipeline included preprocessing, feature engineering, model selection, and evaluation. 
+    <i>(Add specifics: e.g., “RandomForest, 91% F1 on test, SHAP insights for transparency.”)</i>
+  </li>
+  <li>
+    <b>Blog Platform (CRUD)</b> — User auth, create/edit/delete posts, comments, tags, and search; responsive UI and SEO-friendly routing.
+    <i>(Add stack: e.g., “React + Node/Express + MySQL; JWT auth; rate limiting.”)</i>
+  </li>
 </ul>
 
 <div align="center">
@@ -84,8 +87,11 @@
   <img src="https://github-profile-trophy.vercel.app?username=abin-git&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
 </div>
 
+<!-- Working alternative to the Pac-Man graph -->
+<!-- Option A: Contribution snake (commits snake animation) -->
+<!-- Replace abin-git with your username and set up the Action in your repo -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abin-git/abin-git/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abin-git/abin-git/output/github-contribution-grid-snake.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/abin-git/abin-git/output/github-contribution-grid-snake.svg">
 </picture>

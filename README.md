@@ -8,7 +8,7 @@
 - 🔭 Building **modern, responsive web apps** with clean UX and solid performance.
 - 🎓 Computer Science student passionate about **full-stack development** and practical **AI/ML**.
 - 🤖 Built a **PMGSY classification model**: end‑to‑end data prep, feature engineering, model training (RandomForest), and evaluation—achieved strong F1 score and incorporated SHAP for explainability. *(Replace with your actual dataset size, model, and metrics for full impact!)*
-- 🌐 Developed a **full-featured Blog Platform** with CRUD operations, user authentication, post management, comments, tags, and search—optimized for accessibility and SEO. *(Example stack: React + Node/Express + MySQL, JWT auth, rate limiting. Fill in your real stack!)*
+- 🌐 Developed a **full-featured Blog Platform** with CRUD operations, user authentication, post management, comments, tags, and search—optimized for accessibility and SEO.
 - ⚙️ Proficient in **JavaScript, Python, Java**, and relational databases (**MySQL, Oracle**); experienced with **Firebase** for auth/hosting.
 - 🚀 Enthusiastic about **UI design, developer tools, and human-centered products**.
 - 📫 Reach out at **<your contact>** or via the badges below.

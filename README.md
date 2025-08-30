@@ -36,7 +36,6 @@
 - 🤖 **IBM Watson Studio AutoAI**: Automated preprocessing, training, and optimization pipeline achieving high accuracy
 - 🎯 **Advanced ML Pipeline**: Data preprocessing → Feature engineering → Model training → Hyperparameter tuning
 - 📈 **High-Performance Results**: Achieved strong classification accuracy across all project categories
-- 🔍 **Model Explainability**: Integrated SHAP for transparency and interpretability in government decision-making
 - 🌐 **REST API Deployment**: Published model as API for seamless integration into government monitoring systems
 - 🤖 **Claude AI Dashboard**: Built and published interactive data visualization dashboard using Claude AI's Artifacts feature
 - 📱 **Real-time Analytics**: Interactive filtering, dynamic charts, and responsive design for comprehensive data exploration

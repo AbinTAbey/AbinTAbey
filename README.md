@@ -46,19 +46,24 @@
 <td width="50%">
 
 ### 🌐 Full-Featured Blog Platform
-**Modern CRUD Application with Enterprise Features**
+**Modern CRUD Application with Enterprise Features | Full-Stack Development, Authentication**
 
 - 🔐 **JWT Authentication** & role-based access control
 - 📝 **Complete CRUD Operations** for posts & comments
 - 🏷️ **Smart Tagging System** with search functionality
 - 📱 **Responsive Design** optimized for all devices
 - 🚀 **SEO-Optimized** routing and meta management
+- 🔍 **Advanced Search Engine** with real-time filtering
+- 📊 **Analytics Dashboard** for content performance tracking
+- 🔒 **Security Features** including rate limiting and input validation
+- 🎨 **Modern UI/UX** with clean, intuitive design patterns
 
 </td>
 </tr>
 </table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ## 🛠️ Tech Arsenal
 

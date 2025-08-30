@@ -11,17 +11,6 @@
 
 ## 👨‍💻 🚀 About Me
 
-const abin = {                    // Constant variable declaration
-    location: "India 🇮🇳",       // String property with emoji
-    education: "Computer Science Student 🎓",  // Educational background
-    currentFocus: "Building modern web apps with clean UX & AI/ML",  // Current work
-    languages: ["JavaScript", "Python", "Java", "C++"],  // Array of programming languages
-    databases: ["MySQL", "Oracle", "Firebase"],  // Array of database technologies
-    interests: ["Full-Stack Development", "AI/ML", "UI Design"],  // Array of interests
-    currentlyLearning: "Advanced ML algorithms & Cloud deployment",  // Learning goals
-    funFact: "I debug with console.log and I'm not ashamed! 😄"  // Humorous personal touch
-};
-
 - 🔭 I'm currently working on **modern web applications** and **AI/ML projects**
 - 🌱 I'm currently learning **Advanced ML algorithms** and **Cloud deployment**
 - 👯 I'm looking to collaborate on **Full-Stack Development** and **AI/ML** projects

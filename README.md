@@ -100,9 +100,6 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abin-git&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abin-git&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
-</div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abin-git&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />

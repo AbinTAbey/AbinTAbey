@@ -43,7 +43,7 @@
 - ☁️ **Cloud Integration**: Leveraged IBM Cloud services for scalable ML model deployment
 
 </td>
-<td width="50%">
+<td width="50%" valign="top" >
 
 ### 🌐 Full-Featured Blog Platform
 **Modern CRUD Application with Enterprise Features | Full-Stack Development, Web Technologies**

@@ -10,6 +10,15 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 About Me
+## 👨‍💻 About Me
+
+- 🔭 I'm currently working on **modern web applications** and **AI/ML projects**
+- 🌱 I'm currently learning **Advanced ML algorithms** and **Cloud deployment**
+- 👯 I'm looking to collaborate on **Full-Stack Development** and **AI/ML** projects
+- 🤝 I'm looking for help with **Open Source contributions**
+- 💬 Ask me about **C<JavaScript, Python,  or Machine Learning**
+- 📫 How to reach me: **abinabey34@gmail.com**
+- ⚡ Fun fact: **I debug with console.log and I'm not ashamed! 😄**
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

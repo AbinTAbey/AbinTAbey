@@ -30,13 +30,18 @@
 <td width="50%">
 
 ### 🤖 PMGSY AI Classification Model
-**The Power of Smart Infrastructure Analysis**
+**Intelligent Classification of PMGSY Rural Infrastructure Projects**
 
-- 📊 **End-to-end ML Pipeline**: Data preprocessing → Feature engineering → Model training
-- 🎯 **RandomForest Classifier** with hyperparameter tuning
-- 📈 **Strong F1 Score** achieved on classification tasks
-- 🔍 **SHAP Integration** for model explainability & transparency
-- 🏗️ **Deployed Interactive Dashboard** on Netlify
+- 📊 **Multi-Class Classification System**: Built using AI Kosh datasets to categorize infrastructure projects (PMGSY-I, PMGSY-II, RCPLWEA)
+- 🤖 **IBM Watson Studio AutoAI**: Automated preprocessing, training, and optimization pipeline achieving high accuracy
+- 🎯 **Advanced ML Pipeline**: Data preprocessing → Feature engineering → Model training → Hyperparameter tuning
+- 📈 **High-Performance Results**: Achieved strong classification accuracy across all project categories
+- 🔍 **Model Explainability**: Integrated SHAP for transparency and interpretability in government decision-making
+- 🌐 **REST API Deployment**: Published model as API for seamless integration into government monitoring systems
+- 🏗️ **Interactive Dashboard**: Deployed on Netlify with real-time visualization and filtering capabilities
+- ⚡ **Impact**: Improved efficiency and transparency in rural infrastructure project management
+- ☁️ **Cloud Integration**: Leveraged IBM Cloud services for scalable ML model deployment
+
 
 </td>
 <td width="50%">

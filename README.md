@@ -41,7 +41,6 @@
 - ⚡ **Impact**: Improved efficiency and transparency in rural infrastructure project management
 - ☁️ **Cloud Integration**: Leveraged IBM Cloud services for scalable ML model deployment
 
-
 </td>
 <td width="50%">
 
@@ -53,6 +52,10 @@
 - 🏷️ **Smart Tagging System** with search functionality
 - 📱 **Responsive Design** optimized for all devices
 - 🚀 **SEO-Optimized** routing and meta management
+- 🔍 **Advanced Search Engine** with filtering capabilities
+- 📊 **Analytics Dashboard** for content performance tracking
+- 🔒 **Security Features** including rate limiting and input validation
+- 🎨 **Modern UI/UX** with clean, intuitive design patterns
 
 </td>
 </tr>

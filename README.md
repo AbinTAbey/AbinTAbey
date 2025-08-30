@@ -24,23 +24,25 @@
 
 ## 🎯 Current Projects & Achievements
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🎯 Current Projects & Achievements
+
 <table>
 <tr>
 <td width="50%">
 
 ### 🤖 PMGSY AI Classification Model
-**Intelligent Classification of PMGSY Rural Infrastructure Projects | Machine Learning, IBM Cloud**
+**The Power of Smart Infrastructure Analysis**
 
-- 📊 **Multi-Class Classification System**: Built using AI Kosh datasets to categorize infrastructure projects (PMGSY-I, PMGSY-II, RCPLWEA)
-- 🤖 **IBM Watson Studio AutoAI**: Automated preprocessing, training, and optimization pipeline achieving high accuracy
-- 🎯 **Advanced ML Pipeline**: Data preprocessing → Feature engineering → Model training → Hyperparameter tuning
-- 📈 **High-Performance Results**: Achieved strong classification accuracy across all project categories
-- 🔍 **Model Explainability**: Integrated SHAP for transparency and interpretability in government decision-making
-- 🌐 **REST API Deployment**: Published model as API for seamless integration into government monitoring systems
-- 🤖 **Interactive Dashboard**: Built and published interactive data visualization dashboard using Claude AI's Artifacts feature
-- 📱 **Real-time Analytics**: Interactive filtering, dynamic charts, and responsive design for comprehensive data exploration
-- ⚡ **Government Impact**: Enhanced efficiency and transparency in rural infrastructure project management
-- ☁️ **Cloud Integration**: Leveraged IBM Cloud services for scalable ML model deployment
+- 📊 **End-to-end ML Pipeline**: Data preprocessing → Feature engineering → Model training
+- 🎯 **RandomForest Classifier** with hyperparameter tuning
+- 📈 **Strong F1 Score** achieved on classification tasks
+- 🔍 **SHAP Integration** for model explainability & transparency
+- 🏗️ **Deployed Interactive Dashboard** on Netlify
+
+</td>
+<td width="50%">
 
 ### 🌐 Full-Featured Blog Platform
 **Modern CRUD Application with Enterprise Features**
@@ -50,10 +52,6 @@
 - 🏷️ **Smart Tagging System** with search functionality
 - 📱 **Responsive Design** optimized for all devices
 - 🚀 **SEO-Optimized** routing and meta management
-- 🔍 **Advanced Search Engine** with filtering capabilities
-- 📊 **Analytics Dashboard** for content performance tracking
-- 🔒 **Security Features** including rate limiting and input validation
-- 🎨 **Modern UI/UX** with clean, intuitive design patterns
 
 </td>
 </tr>

@@ -170,9 +170,10 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## 🟡 Pacman Contribution Graph 
+
+![pacman](https://github.com/AbinTAbey/AbinTAbey/blob/output/pacman-contribution-graph-dark.svg)
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=100&section=footer" width="100%" />
 </div>
-## 🟡 Pacman Contribution Graph  
-
-![pacman](https://github.com/AbinTAbey/AbinTAbey/blob/output/pacman-contribution-graph-dark.svg)

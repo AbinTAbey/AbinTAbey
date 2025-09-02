@@ -68,12 +68,12 @@
 
 ### Frontend Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,tailwind,bootstrap&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
 </p>
 
 ### Backend & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,python,java,mysql,firebase,mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,firebase&theme=dark" />
 </p>
 
 ### Tools & Platforms

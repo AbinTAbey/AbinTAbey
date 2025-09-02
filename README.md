@@ -175,4 +175,4 @@
 </div>
 ## 🟡 Pacman Contribution Graph  
 
-![Pacman Animation](https://raw.githubusercontent.com/<AbinTAbey>/<AbinTAbey>/output/dist/pacman-contribution-graph.svg)
+![pacman](https://github.com/AbinTAbey/AbinTAbey/blob/output/pacman-contribution-graph-dark.svg)

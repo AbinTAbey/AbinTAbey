@@ -173,3 +173,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=100&section=footer" width="100%" />
 </div>
+## 🟡 Pacman Contribution Graph  
+
+![Pacman Animation](https://raw.githubusercontent.com/<AbinTAbey>/<AbinTAbey>/output/dist/pacman-contribution-graph.svg)

@@ -1,0 +1,148 @@
+<svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .terminal-bg { fill: #1e1e1e; }
+      .terminal-border { fill: #333; }
+      .title-bar { fill: #2d2d2d; }
+      .btn-close { fill: #ff5f57; }
+      .btn-minimize { fill: #ffbd2e; }
+      .btn-maximize { fill: #28ca42; }
+      .terminal-text { 
+        font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace; 
+        font-size: 14px; 
+        fill: #00ff00;
+      }
+      .prompt { fill: #7ec8e3; }
+      .directory { fill: #ffd700; }
+      .cursor { 
+        fill: #00ff00; 
+        animation: blink 1s infinite;
+      }
+      @keyframes blink {
+        0%, 50% { opacity: 1; }
+        51%, 100% { opacity: 0; }
+      }
+      .typing-1 { 
+        animation: typing-1 4s steps(20) infinite;
+        animation-delay: 1s;
+      }
+      .typing-2 { 
+        animation: typing-2 4s steps(15) infinite;
+        animation-delay: 2.5s;
+      }
+      .typing-3 { 
+        animation: typing-3 4s steps(25) infinite;
+        animation-delay: 4s;
+      }
+      @keyframes typing-1 {
+        0%, 25% { width: 0; }
+        25%, 100% { width: 160px; }
+      }
+      @keyframes typing-2 {
+        0%, 50% { width: 0; }
+        50%, 100% { width: 120px; }
+      }
+      @keyframes typing-3 {
+        0%, 75% { width: 0; }
+        75%, 100% { width: 200px; }
+      }
+      .fade-in-1 { 
+        opacity: 0;
+        animation: fade-in 0.5s ease-in forwards;
+        animation-delay: 2s;
+      }
+      .fade-in-2 { 
+        opacity: 0;
+        animation: fade-in 0.5s ease-in forwards;
+        animation-delay: 3.5s;
+      }
+      .fade-in-3 { 
+        opacity: 0;
+        animation: fade-in 0.5s ease-in forwards;
+        animation-delay: 5s;
+      }
+      @keyframes fade-in {
+        to { opacity: 1; }
+      }
+    </style>
+  </defs>
+  
+  <!-- Terminal Window -->
+  <rect class="terminal-border" x="0" y="0" width="600" height="400" rx="8"/>
+  <rect class="terminal-bg" x="2" y="26" width="596" height="372" rx="6"/>
+  
+  <!-- Title Bar -->
+  <rect class="title-bar" x="2" y="2" width="596" height="24" rx="6"/>
+  
+  <!-- Window Controls -->
+  <circle class="btn-close" cx="18" cy="14" r="6"/>
+  <circle class="btn-minimize" cx="38" cy="14" r="6"/>
+  <circle class="btn-maximize" cx="58" cy="14" r="6"/>
+  
+  <!-- Terminal Title -->
+  <text x="300" y="17" text-anchor="middle" class="terminal-text" style="fill: #ccc; font-size: 12px;">Terminal</text>
+  
+  <!-- Terminal Content -->
+  <g transform="translate(15, 50)">
+    <!-- First command line -->
+    <text class="terminal-text prompt" x="0" y="20">user@computer:~$</text>
+    <text class="terminal-text" x="120" y="20">
+      <tspan>
+        <animate attributeName="textContent" 
+                 values=";g;gi;git;git ;git s;git st;git sta;git stat;git statu;git status" 
+                 dur="2s" 
+                 begin="1s" 
+                 fill="freeze"/>
+      </tspan>
+    </text>
+    
+    <!-- Git status output -->
+    <text class="terminal-text fade-in-1" x="0" y="45" style="fill: #ff6b6b;">On branch main</text>
+    <text class="terminal-text fade-in-1" x="0" y="65" style="fill: #4ecdc4;">Your branch is up to date with 'origin/main'.</text>
+    <text class="terminal-text fade-in-1" x="0" y="85">Changes not staged for commit:</text>
+    <text class="terminal-text fade-in-1" x="20" y="105" style="fill: #ff6b6b;">modified:   README.md</text>
+    
+    <!-- Second command line -->
+    <text class="terminal-text prompt fade-in-2" x="0" y="135">user@computer:~$</text>
+    <text class="terminal-text fade-in-2" x="120" y="135">
+      <tspan>
+        <animate attributeName="textContent" 
+                 values=";g;gi;git;git ;git a;git ad;git add;git add ;git add .;git add . " 
+                 dur="1.5s" 
+                 begin="3.5s" 
+                 fill="freeze"/>
+      </tspan>
+    </text>
+    
+    <!-- Third command line -->
+    <text class="terminal-text prompt fade-in-3" x="0" y="165">user@computer:~$</text>
+    <text class="terminal-text fade-in-3" x="120" y="165">
+      <tspan>
+        <animate attributeName="textContent" 
+                 values=";g;gi;git;git ;git c;git co;git com;git comm;git commi;git commit;git commit ;git commit -;git commit -m;git commit -m ;git commit -m ';git commit -m 'A;git commit -m 'Ad;git commit -m 'Add;git commit -m 'Add ;git commit -m 'Add t;git commit -m 'Add te;git commit -m 'Add ter;git commit -m 'Add term;git commit -m 'Add termi;git commit -m 'Add termin;git commit -m 'Add termina;git commit -m 'Add terminal;git commit -m 'Add terminal ';git commit -m 'Add terminal a;git commit -m 'Add terminal an;git commit -m 'Add terminal ani;git commit -m 'Add terminal anim;git commit -m 'Add terminal anima;git commit -m 'Add terminal animat;git commit -m 'Add terminal animati;git commit -m 'Add terminal animatio;git commit -m 'Add terminal animation'" 
+                 dur="3s" 
+                 begin="5s" 
+                 fill="freeze"/>
+      </tspan>
+    </text>
+    
+    <!-- Commit output -->
+    <text class="terminal-text" x="0" y="195" opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.5s" begin="8.2s" fill="freeze"/>
+      [main a1b2c3d] Add terminal animation
+    </text>
+    <text class="terminal-text" x="0" y="215" opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.5s" begin="8.4s" fill="freeze"/>
+      1 file changed, 1 insertion(+)
+    </text>
+    
+    <!-- Final prompt with cursor -->
+    <text class="terminal-text prompt" x="0" y="250" opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.5s" begin="8.8s" fill="freeze"/>
+      user@computer:~$
+    </text>
+    <rect class="cursor" x="120" y="238" width="10" height="18" opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.5s" begin="8.8s" fill="freeze"/>
+    </rect>
+  </g>
+</svg>

@@ -15,7 +15,7 @@
 - 🌱 I'm currently learning **Advanced ML algorithms** and **Cloud deployment**
 - 👯 I'm looking to collaborate on **Full-Stack Development** and **AI/ML** projects
 - 🤝 I'm looking for help with **Open Source contributions**
-- 💬 Ask me about **JavaScript, Python, React, or Machine Learning**
+- 💬 Ask me about ** C,C++, Python,JavaScript or Machine Learning**
 - 📫 How to reach me: **abinabey34@gmail.com**
 - ⚡ Fun fact: **I debug with console.log and I'm not ashamed! 😄**
 

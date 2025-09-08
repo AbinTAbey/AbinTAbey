@@ -9,7 +9,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ![Terminal Demo](./terminal-demo.svg)
-![Terminal](https://github.com/AbinTAbey/AbinTAbey/blob/output/./terminal-demo.svg)
 ## 👨‍💻 About Me
 
 - 🔭 I'm currently working on **modern web applications** and **AI/ML projects**

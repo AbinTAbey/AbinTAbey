@@ -1,173 +1,294 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003B1F,100:00FF9C&height=180&section=header&text=abin-git&fontSize=60&fontColor=00FF9C&animation=fadeIn&fontAlignY=35&desc=frontend%20dev%20//%20ai%20%26%20ml&descAlignY=58&descSize=18" width="100%" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=800&color=00FF9C&center=true&vCenter=true&multiline=true&width=820&height=120&lines=%3E+whoami;%3E+Abin+T+Abey+%3A%3A+Frontend+Dev+%2B+AI%2FML;%3E+compiling+ideas+into+production..." alt="Typing SVG" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=abin-git&label=visitors&color=00FF9C&style=flat-square" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/abin-git?style=flat-square&color=00FF9C&labelColor=0D1117" alt="Followers" />
-<img src="https://img.shields.io/badge/status-online-00FF9C?style=flat-square&labelColor=0D1117" alt="Status" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=0E75B6&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+👋%2C+I'm+Abin+T+Abey;Frontend+Developer+%26+AI%2FML+Enthusiast" alt="Typing SVG" />
 
 </div>
 
-```
-╭──────────────────────────────────────────────────────────────╮
-│  $ ./boot.sh                                                 │
-│  [ok] loading profile ......................... done         │
-╰──────────────────────────────────────────────────────────────╯
-```
+<div align="center">
 
-## `~/about`
+<img src="https://komarev.com/ghpvc/?username=AbinTAbey&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 
-```bash
-$ cat about.txt
+<img src="https://img.shields.io/github/followers/AbinTAbey?style=for-the-badge&color=0e75b6" alt="Followers" />
 
-name        : Abin T Abey
-role        : Frontend Developer & AI/ML Enthusiast
-building    : modern web applications + AI/ML projects
-learning    : advanced ML algorithms, cloud deployment
-open_to     : full-stack & AI/ML collaboration, open source
-ask_me_about: C, C++, Python, JavaScript, Machine Learning
-email       : abinabey34@gmail.com
-fun_fact    : I debug with console.log and I'm not ashamed 😄
+</div>
 
-$ _
-```
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
 
-```
-────────────────────────────────────────────────────────────────
-```
-
-## `~/projects --active`
+## 👨‍💻 About Me
 
 <table>
 <tr>
-<td width="50%" valign="top">
 
-**`[01]` 🤖 PMGSY AI Classification Model**<br>
-*Machine Learning · IBM Cloud*
+<td width="58%" valign="top">
 
-- Multi-class classifier over AI Kosh datasets (PMGSY-I, PMGSY-II, RCPLWEA)
-- IBM Watson Studio AutoAI pipeline: preprocessing → training → tuning
-- Published as a REST API for government monitoring systems
-- Interactive analytics dashboard with live filtering and charts
-- Scalable deployment on IBM Cloud services
+- 🔭 I'm currently working on **modern web applications** and **AI/ML projects**
 
-</td>
-<td width="50%" valign="top">
+- 🌱 I'm currently learning **Advanced ML algorithms** and **Cloud deployment**
 
-**`[02]` 🌐 Full-Featured Blog Platform**<br>
-*Full-Stack CRUD with enterprise features*
+- 👯 I'm looking to collaborate on **Full-Stack Development** and **AI/ML** projects
 
-- JWT authentication with role-based access control
-- Complete CRUD for posts, comments and smart tagging
-- Real-time search engine with advanced filtering
-- Analytics dashboard for content performance
-- Hardened with rate limiting and input validation
+- 🤝 I'm looking for help with **Open Source contributions**
+
+- 💬 Ask me about **C, C++, Python, JavaScript or Machine Learning**
+
+- 📫 How to reach me: **abinabey34@gmail.com**
+
+- ⚡ Fun fact: **I debug with console.log and I'm not ashamed! 😄**
 
 </td>
+
+<td width="42%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+     width="100%"
+     alt="Animated developer coding at a workstation">
+
+</td>
+
 </tr>
 </table>
 
-```
-────────────────────────────────────────────────────────────────
-```
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
 
-## `~/stack --list`
+## 🎯 Current Projects & Achievements
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+**🤖 PMGSY AI Classification Model**<br>
+
+*Intelligent Classification of PMGSY Rural Infrastructure Projects | Machine Learning, IBM Cloud*
+
+- 📊 **Multi-Class Classification System**: Built using AI Kosh datasets to categorize infrastructure projects (PMGSY-I, PMGSY-II, RCPLWEA)
+
+- 🤖 **IBM Watson Studio AutoAI**: Automated preprocessing, training, and optimization pipeline achieving high accuracy
+
+- 🎯 **Advanced ML Pipeline**: Data preprocessing → Feature engineering → Model training → Hyperparameter tuning
+
+- 📈 **High-Performance Results**: Achieved strong classification accuracy across all project categories
+
+- 🌐 **REST API Deployment**: Published model as API for seamless integration into government monitoring systems
+
+- 🤖 **Claude AI Dashboard**: Built and published interactive data visualization dashboard using Claude AI's Artifacts feature
+
+- 📱 **Real-time Analytics**: Interactive filtering, dynamic charts, and responsive design for comprehensive data exploration
+
+- ⚡ **Government Impact**: Enhanced efficiency and transparency in rural infrastructure project management
+
+- ☁️ **Cloud Integration**: Leveraged IBM Cloud services for scalable ML model deployment
+
+</td>
+
+<td width="50%" valign="top">
+
+**🌐 Full-Featured Blog Platform**<br>
+
+*Modern CRUD Application with Enterprise Features | Full-Stack Development, Web Technologies*
+
+- 🔐 **JWT Authentication** & role-based access control
+
+- 📝 **Complete CRUD Operations** for posts & comments
+
+- 🏷️ **Smart Tagging System** with search functionality
+
+- 📱 **Responsive Design** optimized for all devices
+
+- 🚀 **SEO-Optimized** routing and meta management
+
+- 🔍 **Advanced Search Engine** with real-time filtering capabilities
+
+- 📊 **Analytics Dashboard** for content performance tracking
+
+- 🔒 **Security Features** including rate limiting and input validation
+
+- 🎨 **Modern UI/UX** with clean, intuitive design patterns
+
+</td>
+
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
+
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-**frontend**
+### Frontend Technologies
 
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+<p>
 
-**backend & data**
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Frontend technologies">
 
-<img src="https://skillicons.dev/icons?i=python,java,mysql,firebase&theme=dark" />
+</p>
 
-**ai / ml**
+### Backend & Databases
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" />
-<img src="https://cdn.simpleicons.org/scikitlearn/00FF9C" width="48" height="48" alt="scikit-learn" />
-<img src="https://cdn.simpleicons.org/pandas/00FF9C" width="48" height="48" alt="pandas" />
-<img src="https://cdn.simpleicons.org/numpy/00FF9C" width="48" height="48" alt="numpy" />
+<p>
 
-**tools & platforms**
+<img src="https://skillicons.dev/icons?i=python,java,mysql,firebase&theme=dark" alt="Backend and database technologies">
 
-<img src="https://skillicons.dev/icons?i=c,git,github,vscode,idea,figma,blender,netlify,vercel&theme=dark" />
+</p>
+
+### Tools & Platforms
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,blender,netlify,vercel&theme=dark" alt="Tools and platforms">
+
+</p>
+
+### AI/ML & Data Science
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" alt="AI and machine learning">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
+     width="48"
+     height="48"
+     alt="scikit-learn">
+
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"
+     width="48"
+     height="48"
+     alt="seaborn">
+
+<img src="https://pandas.pydata.org/static/img/pandas_mark.svg"
+     width="48"
+     height="48"
+     alt="pandas">
+
+</p>
 
 </div>
 
-```
-────────────────────────────────────────────────────────────────
-```
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
 
-## `~/stats --live`
+## 💻 Primary Languages & Technologies
 
-<div align="center">
+<div align="left">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abin-git&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abin-git&hide_border=true&background=0D1117&stroke=00FF9C&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
+<img src="https://skillicons.dev/icons?i=c" height="40" alt="C">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abin-git&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9" alt="Top Languages" />
+<img width="12">
 
-<img src="https://github-profile-trophy.vercel.app/?username=abin-git&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=abin-git&bg_color=0D1117&color=00FF9C&line=00FF9C&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+<img width="12">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5">
+
+<img width="12">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3">
+
+<img width="12">
+
+<img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code">
+
+<img width="12">
+
+<img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub">
+
+<img width="12">
+
+<img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="MySQL">
+
+<img width="12">
+
+<img src="https://skillicons.dev/icons?i=netlify" height="40" alt="Netlify">
+
+<img width="12">
+
+<img src="https://skillicons.dev/icons?i=git" height="40" alt="Git">
+
+<img width="12">
+
+<img src="https://skillicons.dev/icons?i=idea" height="40" alt="IntelliJ IDEA">
+
+<img width="12">
+
+<img src="https://skillicons.dev/icons?i=py" height="40" alt="Python">
 
 </div>
 
-### 🟡 pacman contribution graph
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/abin-git/abin-git/output/pacman-contribution-graph-dark.svg" alt="Pacman contribution graph" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AbinTAbey&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats">
+
+<img width="49%" src="https://streak-stats.demolab.com/?user=AbinTAbey&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 
 </div>
 
-```
-────────────────────────────────────────────────────────────────
-```
+<div align="center">
 
-## `~/connect`
+<img src="https://github-profile-trophy.vercel.app/?username=AbinTAbey&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies">
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
+
+## 🤝 Let's Connect & Collaborate
 
 <div align="center">
+
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+</a>
+
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+</a>
+
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to">
+</a>
 
 <a href="mailto:abinabey34@gmail.com">
-  <img src="https://img.shields.io/badge/gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF9C" alt="Gmail" />
-</a>
-<a href="https://github.com/abin-git" target="_blank">
-  <img src="https://img.shields.io/badge/github-0D1117?style=for-the-badge&logo=github&logoColor=00FF9C" alt="GitHub" />
-</a>
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9C" alt="LinkedIn" />
-</a>
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/x-0D1117?style=for-the-badge&logo=x&logoColor=00FF9C" alt="X" />
-</a>
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/discord-0D1117?style=for-the-badge&logo=discord&logoColor=00FF9C" alt="Discord" />
-</a>
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0D1117?style=for-the-badge&logo=dev.to&logoColor=00FF9C" alt="dev.to" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 
 </div>
 
-```
-────────────────────────────────────────────────────────────────
-```
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
 
-## `~/philosophy`
+## 💡 Philosophy
 
-> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+> *"Code is like humor. When you have to explain it, it's bad." – Cory House*
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=640&lines=always+learning%2C+always+building;turning+ideas+into+digital+reality;building+the+future%2C+one+commit+at+a+time" alt="Philosophy" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Always+learning%2C+always+building;Turning+ideas+into+digital+reality;Building+the+future%2C+one+commit+at+a+time" alt="Philosophy">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,50:003B1F,100:000000&height=120&section=footer" width="100%" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
+
+## 🟡 Pacman Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AbinTAbey/AbinTAbey/output/pacman-contribution-graph-dark.svg"
+     alt="Pacman contribution graph"
+     width="90%">
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=100&section=footer"
+     width="100%"
+     alt="Footer">
 
 </div>
